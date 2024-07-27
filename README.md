@@ -14,20 +14,5 @@ Aplikasi ini adalah sistem rekomendasi beasiswa berbasis web yang dikembangkan m
 - Streamlit
 - Pandas
 
-## Instalasi
-
-1. Clone repository ini:
-    ```bash
-    git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-    cd REPOSITORY_NAME
-    ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Jalankan aplikasi:
-    ```bash
-    streamlit run app.py
-    ```
+## Demo
+RFID example: 5868085288
