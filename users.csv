@@ -1,0 +1,101 @@
+user_id,name,age,gender,education_level,gpa,field_of_study,location,rfid
+1,User 1,23,Female,SMA,2.1,Economics,Medan,6843498682
+2,User 2,18,Female,S2,3.4,Engineering,Bandung,4559054353
+3,User 3,21,Female,S1,3.98,Economics,Yogyakarta,9267669951
+4,User 4,29,Female,S1,2.53,Engineering,Bandung,9787534488
+5,User 5,21,Male,S1,3.36,Engineering,Yogyakarta,2496879268
+6,User 6,25,Female,SMA,3.73,Economics,Surabaya,9456669074
+7,User 7,27,Female,SMA,3.5,Economics,Medan,9181690830
+8,User 8,21,Male,SMA,3.93,Economics,Bandung,6568666759
+9,User 9,23,Male,S1,3.11,Computer Science,Medan,9555623147
+10,User 10,20,Female,S1,2.42,Engineering,Bandung,1454863487
+11,User 11,22,Male,S2,2.44,Computer Science,Medan,9379277649
+12,User 12,25,Male,S1,2.44,Medicine,Bandung,6297499660
+13,User 13,24,Male,SMA,3.14,Economics,Surabaya,9840573216
+14,User 14,26,Male,SMA,2.9,Medicine,Surabaya,6465074862
+15,User 15,26,Female,S1,3.94,Computer Science,Yogyakarta,2607589865
+16,User 16,28,Female,S2,3.36,Engineering,Bandung,2021374326
+17,User 17,19,Male,S1,2.17,Science,Surabaya,6033070738
+18,User 18,24,Male,S1,2.11,Economics,Surabaya,2929692935
+19,User 19,25,Female,S1,2.98,Medicine,Medan,4604289829
+20,User 20,25,Male,SMA,3.76,Medicine,Surabaya,2021093357
+21,User 21,26,Female,SMA,3.95,Medicine,Surabaya,3157746285
+22,User 22,19,Female,SMA,3.24,Computer Science,Yogyakarta,8017966663
+23,User 23,23,Female,S1,3.08,Computer Science,Jakarta,4004652010
+24,User 24,27,Female,S2,3.71,Science,Medan,9452347767
+25,User 25,26,Male,S1,3.49,Computer Science,Surabaya,5270918864
+26,User 26,27,Male,S1,2.96,Engineering,Jakarta,1304383386
+27,User 27,22,Male,SMA,3.35,Engineering,Jakarta,1654358466
+28,User 28,21,Female,SMA,3.21,Medicine,Surabaya,3594666217
+29,User 29,18,Male,S1,3.43,Economics,Yogyakarta,6939115388
+30,User 30,21,Female,S2,2.94,Medicine,Bandung,9140620388
+31,User 31,23,Female,SMA,2.91,Engineering,Yogyakarta,7643820042
+32,User 32,18,Female,S2,3.81,Engineering,Surabaya,2180358248
+33,User 33,20,Male,S2,2.27,Engineering,Medan,7838577573
+34,User 34,21,Female,S1,2.46,Medicine,Bandung,6461707058
+35,User 35,26,Male,S1,3.76,Science,Bandung,2956117714
+36,User 36,19,Male,S1,3.81,Economics,Surabaya,2725346526
+37,User 37,21,Female,S2,3.29,Science,Surabaya,2066927688
+38,User 38,21,Male,SMA,2.65,Science,Medan,2333075495
+39,User 39,21,Female,SMA,3.04,Economics,Yogyakarta,3254730904
+40,User 40,25,Female,S1,2.0,Engineering,Medan,2432403667
+41,User 41,18,Male,SMA,2.62,Engineering,Surabaya,9264198966
+42,User 42,19,Male,S2,2.85,Medicine,Medan,4703629962
+43,User 43,27,Female,S2,3.77,Medicine,Surabaya,7211104710
+44,User 44,27,Male,SMA,3.36,Science,Bandung,3673120740
+45,User 45,18,Female,S2,2.91,Economics,Medan,8346663529
+46,User 46,28,Male,S2,2.97,Economics,Jakarta,2467582223
+47,User 47,22,Female,S2,3.58,Computer Science,Bandung,7630046758
+48,User 48,25,Male,S1,2.46,Computer Science,Jakarta,6509153034
+49,User 49,21,Female,S1,3.76,Science,Surabaya,9719794045
+50,User 50,29,Male,SMA,2.63,Medicine,Jakarta,9623796555
+51,User 51,20,Female,SMA,3.91,Engineering,Yogyakarta,9974310732
+52,User 52,25,Male,SMA,2.94,Engineering,Surabaya,7038476297
+53,User 53,20,Male,S2,3.42,Science,Jakarta,6766470260
+54,User 54,18,Male,S2,2.31,Economics,Surabaya,7967429355
+55,User 55,18,Female,S1,3.46,Computer Science,Yogyakarta,6493554987
+56,User 56,22,Male,S1,3.29,Medicine,Jakarta,1496941615
+57,User 57,23,Female,SMA,2.43,Economics,Jakarta,3478798485
+58,User 58,23,Male,SMA,2.37,Medicine,Bandung,3986161938
+59,User 59,24,Female,S2,3.62,Medicine,Jakarta,8181001229
+60,User 60,26,Male,S1,3.49,Science,Jakarta,1011610217
+61,User 61,22,Male,S1,3.35,Computer Science,Surabaya,8074655750
+62,User 62,19,Male,S2,2.55,Computer Science,Yogyakarta,3578665008
+63,User 63,22,Male,SMA,2.35,Engineering,Medan,3528617370
+64,User 64,27,Male,S1,3.41,Economics,Yogyakarta,8286336549
+65,User 65,28,Female,S1,2.93,Economics,Yogyakarta,2434368208
+66,User 66,28,Male,S1,3.68,Computer Science,Jakarta,4396632638
+67,User 67,26,Male,S1,2.41,Medicine,Medan,7193495872
+68,User 68,19,Female,S1,2.33,Engineering,Medan,7528145754
+69,User 69,19,Male,S2,2.25,Engineering,Yogyakarta,1978219603
+70,User 70,25,Male,S2,3.44,Medicine,Surabaya,7971997532
+71,User 71,27,Male,S2,2.06,Engineering,Medan,4809467546
+72,User 72,27,Female,SMA,3.49,Medicine,Medan,7952805459
+73,User 73,21,Male,S1,2.19,Engineering,Yogyakarta,1573212646
+74,User 74,24,Male,S2,2.43,Computer Science,Bandung,4744291229
+75,User 75,25,Female,S1,3.5,Engineering,Medan,3159169239
+76,User 76,29,Male,S1,3.46,Engineering,Yogyakarta,3325212803
+77,User 77,20,Female,S1,2.09,Economics,Bandung,9260536643
+78,User 78,29,Male,S1,2.42,Engineering,Yogyakarta,4564382064
+79,User 79,18,Male,SMA,2.57,Medicine,Yogyakarta,9453725780
+80,User 80,21,Female,S2,3.35,Computer Science,Surabaya,4950437093
+81,User 81,23,Female,S2,2.13,Engineering,Jakarta,2671320721
+82,User 82,27,Male,SMA,3.11,Computer Science,Bandung,9384389049
+83,User 83,28,Male,S1,2.02,Computer Science,Jakarta,6583581676
+84,User 84,22,Male,S1,3.67,Engineering,Bandung,7212216708
+85,User 85,29,Female,SMA,3.97,Economics,Bandung,4899295972
+86,User 86,22,Female,SMA,3.41,Science,Medan,5623475478
+87,User 87,24,Male,SMA,2.36,Engineering,Surabaya,8183686307
+88,User 88,22,Male,S2,3.02,Science,Surabaya,9581182532
+89,User 89,22,Male,S1,3.16,Engineering,Yogyakarta,6850557453
+90,User 90,21,Male,S2,3.58,Computer Science,Jakarta,7316389139
+91,User 91,22,Male,S1,3.21,Engineering,Yogyakarta,5207036113
+92,User 92,22,Female,S2,2.44,Science,Surabaya,6045119356
+93,User 93,26,Male,SMA,2.91,Computer Science,Yogyakarta,2408697729
+94,User 94,22,Female,S2,3.76,Engineering,Surabaya,8217042589
+95,User 95,21,Male,SMA,2.98,Economics,Surabaya,5566441936
+96,User 96,28,Male,S1,3.43,Medicine,Bandung,3051476118
+97,User 97,25,Male,S1,2.97,Engineering,Yogyakarta,3209815402
+98,User 98,23,Female,S1,3.42,Economics,Bandung,2449454309
+99,User 99,23,Female,SMA,3.0,Science,Yogyakarta,5868085288
+100,User 100,18,Female,SMA,3.69,Economics,Surabaya,1415769809

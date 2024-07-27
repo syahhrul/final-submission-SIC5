@@ -1,0 +1,301 @@
+scholarship_id,scholarship_name,provider,education_level_required,gpa_required,field_of_study_required,location_preference,amount
+1,Scholarship 1,Provider 1,S2,2.61,Computer Science,Bandung,18309330
+2,Scholarship 2,Provider 2,S1,3.09,Engineering,Surabaya,9574342
+3,Scholarship 3,Provider 3,S1,3.71,Engineering,Jakarta,15887800
+4,Scholarship 4,Provider 4,S1,3.49,Science,Yogyakarta,16768962
+5,Scholarship 5,Provider 5,S1,2.9,Medicine,Medan,17602522
+6,Scholarship 6,Provider 6,S2,3.66,Medicine,Surabaya,10511406
+7,Scholarship 7,Provider 7,SMA,3.41,Computer Science,Bandung,16088153
+8,Scholarship 8,Provider 8,SMA,3.1,Engineering,Medan,11744589
+9,Scholarship 9,Provider 9,SMA,2.84,Engineering,Jakarta,15647487
+10,Scholarship 10,Provider 10,SMA,3.25,Economics,Jakarta,8230427
+11,Scholarship 11,Provider 11,S1,2.75,Medicine,Jakarta,6722942
+12,Scholarship 12,Provider 12,S2,3.46,Science,Medan,6526841
+13,Scholarship 13,Provider 13,S1,3.72,Engineering,Surabaya,8115301
+14,Scholarship 14,Provider 14,S1,3.36,Science,Surabaya,9838317
+15,Scholarship 15,Provider 15,S2,3.44,Science,Bandung,14637269
+16,Scholarship 16,Provider 16,S2,2.71,Economics,Medan,11553707
+17,Scholarship 17,Provider 17,S2,3.47,Engineering,Surabaya,8613176
+18,Scholarship 18,Provider 18,S1,3.15,Science,Yogyakarta,13459077
+19,Scholarship 19,Provider 19,SMA,2.61,Engineering,Bandung,10739513
+20,Scholarship 20,Provider 20,S1,3.0,Economics,Surabaya,18559601
+21,Scholarship 21,Provider 21,S1,3.45,Computer Science,Yogyakarta,6479705
+22,Scholarship 22,Provider 22,S2,3.25,Computer Science,Bandung,10292300
+23,Scholarship 23,Provider 23,S1,2.9,Computer Science,Jakarta,7997812
+24,Scholarship 24,Provider 24,SMA,3.79,Science,Jakarta,14423686
+25,Scholarship 25,Provider 25,SMA,3.25,Science,Yogyakarta,13846255
+26,Scholarship 26,Provider 26,S1,3.73,Science,Jakarta,12906045
+27,Scholarship 27,Provider 27,S2,3.23,Engineering,Yogyakarta,10188490
+28,Scholarship 28,Provider 28,S1,3.23,Medicine,Bandung,12182920
+29,Scholarship 29,Provider 29,SMA,2.57,Engineering,Surabaya,15555866
+30,Scholarship 30,Provider 30,SMA,2.64,Computer Science,Bandung,19746975
+31,Scholarship 31,Provider 31,S1,3.3,Medicine,Yogyakarta,14346910
+32,Scholarship 32,Provider 32,SMA,3.45,Economics,Medan,10214974
+33,Scholarship 33,Provider 33,S1,2.82,Medicine,Medan,16144421
+34,Scholarship 34,Provider 34,SMA,3.75,Economics,Yogyakarta,18666598
+35,Scholarship 35,Provider 35,S2,3.46,Science,Jakarta,13209584
+36,Scholarship 36,Provider 36,SMA,2.81,Computer Science,Yogyakarta,17994236
+37,Scholarship 37,Provider 37,S1,3.34,Science,Surabaya,8894256
+38,Scholarship 38,Provider 38,S1,2.94,Engineering,Bandung,11534086
+39,Scholarship 39,Provider 39,S2,3.45,Science,Yogyakarta,5836215
+40,Scholarship 40,Provider 40,SMA,3.26,Science,Surabaya,15314241
+41,Scholarship 41,Provider 41,S1,3.48,Medicine,Medan,19367087
+42,Scholarship 42,Provider 42,SMA,2.83,Economics,Yogyakarta,11759615
+43,Scholarship 43,Provider 43,S2,3.71,Computer Science,Jakarta,14727169
+44,Scholarship 44,Provider 44,S1,3.79,Science,Yogyakarta,16069053
+45,Scholarship 45,Provider 45,S2,2.71,Science,Medan,13209685
+46,Scholarship 46,Provider 46,S1,3.17,Economics,Surabaya,19910254
+47,Scholarship 47,Provider 47,SMA,3.62,Engineering,Yogyakarta,14611008
+48,Scholarship 48,Provider 48,S1,2.95,Engineering,Yogyakarta,5143062
+49,Scholarship 49,Provider 49,S2,2.82,Medicine,Jakarta,6461412
+50,Scholarship 50,Provider 50,S1,3.45,Economics,Yogyakarta,5077466
+51,Scholarship 51,Provider 51,S2,3.77,Science,Bandung,13734356
+52,Scholarship 52,Provider 52,S1,3.15,Engineering,Yogyakarta,17923220
+53,Scholarship 53,Provider 53,S2,3.01,Engineering,Surabaya,12281895
+54,Scholarship 54,Provider 54,SMA,3.01,Computer Science,Bandung,11879473
+55,Scholarship 55,Provider 55,S1,3.53,Computer Science,Jakarta,15103662
+56,Scholarship 56,Provider 56,SMA,3.42,Medicine,Surabaya,17634014
+57,Scholarship 57,Provider 57,S1,2.91,Engineering,Jakarta,13120987
+58,Scholarship 58,Provider 58,S1,3.77,Engineering,Yogyakarta,8376713
+59,Scholarship 59,Provider 59,SMA,3.66,Economics,Yogyakarta,16513160
+60,Scholarship 60,Provider 60,S2,3.41,Computer Science,Yogyakarta,18686324
+61,Scholarship 61,Provider 61,SMA,3.07,Computer Science,Medan,8194452
+62,Scholarship 62,Provider 62,SMA,2.77,Engineering,Medan,5508823
+63,Scholarship 63,Provider 63,S1,3.36,Medicine,Medan,16071806
+64,Scholarship 64,Provider 64,S2,3.48,Engineering,Bandung,10206064
+65,Scholarship 65,Provider 65,S2,3.29,Science,Medan,9155367
+66,Scholarship 66,Provider 66,SMA,3.14,Computer Science,Yogyakarta,15057147
+67,Scholarship 67,Provider 67,SMA,2.65,Computer Science,Yogyakarta,7303275
+68,Scholarship 68,Provider 68,S2,3.52,Economics,Jakarta,12635597
+69,Scholarship 69,Provider 69,SMA,3.14,Medicine,Surabaya,10702136
+70,Scholarship 70,Provider 70,S1,3.61,Economics,Surabaya,15724345
+71,Scholarship 71,Provider 71,S1,2.68,Computer Science,Bandung,14986825
+72,Scholarship 72,Provider 72,SMA,3.75,Medicine,Surabaya,9377755
+73,Scholarship 73,Provider 73,S1,3.14,Engineering,Bandung,10833701
+74,Scholarship 74,Provider 74,S2,2.59,Engineering,Jakarta,12771974
+75,Scholarship 75,Provider 75,SMA,2.86,Medicine,Yogyakarta,17596649
+76,Scholarship 76,Provider 76,S1,3.67,Science,Yogyakarta,19286829
+77,Scholarship 77,Provider 77,SMA,2.93,Engineering,Bandung,7143269
+78,Scholarship 78,Provider 78,S2,3.76,Economics,Medan,7797574
+79,Scholarship 79,Provider 79,S1,3.08,Engineering,Jakarta,5093498
+80,Scholarship 80,Provider 80,S2,2.98,Engineering,Yogyakarta,19438997
+81,Scholarship 81,Provider 81,SMA,3.53,Science,Yogyakarta,10322827
+82,Scholarship 82,Provider 82,SMA,3.11,Engineering,Jakarta,9280042
+83,Scholarship 83,Provider 83,S1,2.6,Economics,Bandung,14792779
+84,Scholarship 84,Provider 84,S2,3.58,Economics,Medan,17904861
+85,Scholarship 85,Provider 85,SMA,3.53,Economics,Bandung,15459214
+86,Scholarship 86,Provider 86,S2,3.17,Computer Science,Jakarta,11640339
+87,Scholarship 87,Provider 87,S2,2.51,Engineering,Surabaya,8052826
+88,Scholarship 88,Provider 88,S1,2.68,Engineering,Bandung,7956031
+89,Scholarship 89,Provider 89,S2,3.43,Medicine,Surabaya,5282704
+90,Scholarship 90,Provider 90,SMA,3.27,Science,Jakarta,10039267
+91,Scholarship 91,Provider 91,SMA,3.41,Computer Science,Surabaya,15061364
+92,Scholarship 92,Provider 92,S1,2.97,Engineering,Yogyakarta,16506577
+93,Scholarship 93,Provider 93,S2,3.32,Economics,Surabaya,16632208
+94,Scholarship 94,Provider 94,SMA,3.07,Computer Science,Medan,8529098
+95,Scholarship 95,Provider 95,SMA,3.04,Computer Science,Medan,10169145
+96,Scholarship 96,Provider 96,S1,3.04,Economics,Jakarta,9658364
+97,Scholarship 97,Provider 97,S2,2.54,Medicine,Medan,9326345
+98,Scholarship 98,Provider 98,S2,2.58,Engineering,Surabaya,6323107
+99,Scholarship 99,Provider 99,S2,3.6,Science,Yogyakarta,15105753
+100,Scholarship 100,Provider 100,SMA,3.4,Medicine,Jakarta,10949055
+101,Scholarship 101,Provider 101,SMA,2.8,Science,Bandung,5314522
+102,Scholarship 102,Provider 102,S1,2.65,Science,Yogyakarta,8490355
+103,Scholarship 103,Provider 103,SMA,2.55,Engineering,Bandung,8350863
+104,Scholarship 104,Provider 104,S1,3.12,Computer Science,Jakarta,9770075
+105,Scholarship 105,Provider 105,S1,3.26,Economics,Bandung,8205252
+106,Scholarship 106,Provider 106,S2,3.67,Science,Yogyakarta,11933862
+107,Scholarship 107,Provider 107,S1,3.7,Medicine,Medan,16394773
+108,Scholarship 108,Provider 108,S2,2.98,Engineering,Jakarta,6599591
+109,Scholarship 109,Provider 109,S2,3.71,Engineering,Medan,12670001
+110,Scholarship 110,Provider 110,SMA,3.21,Medicine,Medan,10974453
+111,Scholarship 111,Provider 111,SMA,3.25,Science,Medan,9099863
+112,Scholarship 112,Provider 112,S1,2.73,Science,Yogyakarta,11525932
+113,Scholarship 113,Provider 113,S1,2.65,Science,Surabaya,9833254
+114,Scholarship 114,Provider 114,S1,2.82,Medicine,Medan,13658283
+115,Scholarship 115,Provider 115,S1,2.66,Science,Surabaya,7333291
+116,Scholarship 116,Provider 116,SMA,2.79,Medicine,Jakarta,14979414
+117,Scholarship 117,Provider 117,S1,3.2,Engineering,Bandung,9627499
+118,Scholarship 118,Provider 118,S2,3.63,Medicine,Medan,15974214
+119,Scholarship 119,Provider 119,SMA,3.53,Economics,Surabaya,5459661
+120,Scholarship 120,Provider 120,S2,2.54,Computer Science,Jakarta,5028817
+121,Scholarship 121,Provider 121,S1,3.41,Computer Science,Yogyakarta,5892328
+122,Scholarship 122,Provider 122,SMA,2.56,Economics,Jakarta,5858749
+123,Scholarship 123,Provider 123,S2,3.8,Medicine,Yogyakarta,5598494
+124,Scholarship 124,Provider 124,SMA,3.52,Computer Science,Bandung,14524676
+125,Scholarship 125,Provider 125,S2,2.8,Economics,Bandung,11170386
+126,Scholarship 126,Provider 126,SMA,3.14,Science,Surabaya,15396400
+127,Scholarship 127,Provider 127,S2,3.47,Economics,Yogyakarta,12869570
+128,Scholarship 128,Provider 128,S2,3.59,Computer Science,Yogyakarta,13208411
+129,Scholarship 129,Provider 129,S2,2.8,Medicine,Bandung,10357960
+130,Scholarship 130,Provider 130,SMA,2.67,Medicine,Jakarta,8411691
+131,Scholarship 131,Provider 131,S2,3.71,Medicine,Jakarta,6365199
+132,Scholarship 132,Provider 132,S2,3.37,Computer Science,Surabaya,17621363
+133,Scholarship 133,Provider 133,S1,3.64,Science,Bandung,9063447
+134,Scholarship 134,Provider 134,S2,2.8,Medicine,Bandung,11682543
+135,Scholarship 135,Provider 135,S1,2.67,Engineering,Medan,17462911
+136,Scholarship 136,Provider 136,SMA,2.96,Science,Surabaya,11311070
+137,Scholarship 137,Provider 137,S2,2.83,Economics,Bandung,11273549
+138,Scholarship 138,Provider 138,SMA,2.59,Engineering,Medan,7796380
+139,Scholarship 139,Provider 139,S1,3.34,Science,Yogyakarta,6211310
+140,Scholarship 140,Provider 140,S1,2.83,Computer Science,Medan,17414862
+141,Scholarship 141,Provider 141,SMA,3.09,Engineering,Bandung,11495986
+142,Scholarship 142,Provider 142,S2,2.87,Science,Jakarta,18663406
+143,Scholarship 143,Provider 143,SMA,3.7,Science,Surabaya,13940717
+144,Scholarship 144,Provider 144,S1,3.09,Science,Yogyakarta,13377953
+145,Scholarship 145,Provider 145,S1,3.64,Science,Jakarta,5815364
+146,Scholarship 146,Provider 146,S2,2.56,Medicine,Surabaya,13573812
+147,Scholarship 147,Provider 147,S1,3.2,Engineering,Yogyakarta,11492810
+148,Scholarship 148,Provider 148,S2,3.09,Science,Yogyakarta,8601780
+149,Scholarship 149,Provider 149,S2,2.92,Economics,Bandung,11447167
+150,Scholarship 150,Provider 150,S2,2.89,Science,Medan,13827154
+151,Scholarship 151,Provider 151,S1,2.85,Medicine,Jakarta,7067940
+152,Scholarship 152,Provider 152,SMA,2.76,Engineering,Medan,14783496
+153,Scholarship 153,Provider 153,SMA,3.14,Engineering,Bandung,19225527
+154,Scholarship 154,Provider 154,S1,2.95,Science,Bandung,15045754
+155,Scholarship 155,Provider 155,SMA,2.93,Science,Jakarta,17303086
+156,Scholarship 156,Provider 156,SMA,2.59,Economics,Yogyakarta,6772941
+157,Scholarship 157,Provider 157,S1,2.52,Engineering,Surabaya,10086732
+158,Scholarship 158,Provider 158,SMA,3.69,Engineering,Yogyakarta,11369949
+159,Scholarship 159,Provider 159,S1,3.04,Engineering,Medan,15897998
+160,Scholarship 160,Provider 160,S2,3.38,Computer Science,Jakarta,13149352
+161,Scholarship 161,Provider 161,S2,3.09,Engineering,Bandung,14363081
+162,Scholarship 162,Provider 162,SMA,2.76,Engineering,Yogyakarta,8076014
+163,Scholarship 163,Provider 163,S1,3.71,Economics,Jakarta,10313212
+164,Scholarship 164,Provider 164,S2,2.66,Economics,Surabaya,6409612
+165,Scholarship 165,Provider 165,S1,3.13,Medicine,Bandung,11075621
+166,Scholarship 166,Provider 166,S1,2.62,Economics,Yogyakarta,17512925
+167,Scholarship 167,Provider 167,S1,2.8,Engineering,Bandung,13469613
+168,Scholarship 168,Provider 168,SMA,3.39,Engineering,Medan,5389195
+169,Scholarship 169,Provider 169,S2,3.18,Engineering,Surabaya,6129964
+170,Scholarship 170,Provider 170,SMA,3.22,Economics,Surabaya,16429865
+171,Scholarship 171,Provider 171,S1,3.58,Science,Surabaya,6025905
+172,Scholarship 172,Provider 172,S2,2.58,Computer Science,Medan,6697688
+173,Scholarship 173,Provider 173,SMA,3.68,Medicine,Yogyakarta,8387195
+174,Scholarship 174,Provider 174,S2,3.35,Science,Yogyakarta,11003343
+175,Scholarship 175,Provider 175,SMA,3.33,Computer Science,Yogyakarta,9929974
+176,Scholarship 176,Provider 176,S1,2.54,Economics,Yogyakarta,7724512
+177,Scholarship 177,Provider 177,S2,3.68,Medicine,Yogyakarta,18754860
+178,Scholarship 178,Provider 178,S1,2.54,Medicine,Jakarta,12034110
+179,Scholarship 179,Provider 179,S1,2.74,Economics,Medan,15006224
+180,Scholarship 180,Provider 180,S2,3.66,Science,Surabaya,15392562
+181,Scholarship 181,Provider 181,S2,2.66,Computer Science,Yogyakarta,15754419
+182,Scholarship 182,Provider 182,SMA,3.02,Engineering,Yogyakarta,18758060
+183,Scholarship 183,Provider 183,SMA,3.49,Engineering,Surabaya,13823922
+184,Scholarship 184,Provider 184,S1,3.23,Computer Science,Surabaya,14256305
+185,Scholarship 185,Provider 185,SMA,3.45,Engineering,Jakarta,12843851
+186,Scholarship 186,Provider 186,S2,2.75,Science,Medan,6870095
+187,Scholarship 187,Provider 187,S2,3.04,Economics,Bandung,11468889
+188,Scholarship 188,Provider 188,S2,3.15,Engineering,Jakarta,7443414
+189,Scholarship 189,Provider 189,S1,2.82,Economics,Bandung,8094481
+190,Scholarship 190,Provider 190,SMA,3.8,Engineering,Jakarta,5064476
+191,Scholarship 191,Provider 191,SMA,3.37,Engineering,Medan,13897274
+192,Scholarship 192,Provider 192,SMA,3.65,Medicine,Medan,5542555
+193,Scholarship 193,Provider 193,SMA,3.01,Engineering,Bandung,9092012
+194,Scholarship 194,Provider 194,SMA,3.7,Medicine,Yogyakarta,16862875
+195,Scholarship 195,Provider 195,SMA,2.83,Computer Science,Yogyakarta,17857820
+196,Scholarship 196,Provider 196,SMA,2.71,Engineering,Yogyakarta,14824999
+197,Scholarship 197,Provider 197,S1,3.52,Engineering,Bandung,6260139
+198,Scholarship 198,Provider 198,SMA,3.76,Engineering,Yogyakarta,9485223
+199,Scholarship 199,Provider 199,SMA,2.58,Medicine,Surabaya,6597539
+200,Scholarship 200,Provider 200,SMA,2.63,Engineering,Surabaya,8201438
+201,Scholarship 201,Provider 201,S1,2.91,Science,Medan,16245300
+202,Scholarship 202,Provider 202,SMA,3.18,Computer Science,Bandung,11061993
+203,Scholarship 203,Provider 203,S1,3.42,Economics,Yogyakarta,7273673
+204,Scholarship 204,Provider 204,S1,3.74,Economics,Surabaya,6229686
+205,Scholarship 205,Provider 205,S1,2.65,Medicine,Yogyakarta,6142059
+206,Scholarship 206,Provider 206,S2,2.96,Computer Science,Jakarta,15647474
+207,Scholarship 207,Provider 207,SMA,2.85,Computer Science,Yogyakarta,5742800
+208,Scholarship 208,Provider 208,S2,3.55,Economics,Medan,11104858
+209,Scholarship 209,Provider 209,SMA,2.71,Medicine,Jakarta,9929671
+210,Scholarship 210,Provider 210,S1,3.64,Science,Bandung,6844662
+211,Scholarship 211,Provider 211,S1,3.51,Computer Science,Yogyakarta,6293138
+212,Scholarship 212,Provider 212,SMA,3.65,Economics,Yogyakarta,15256314
+213,Scholarship 213,Provider 213,SMA,3.76,Science,Jakarta,5148811
+214,Scholarship 214,Provider 214,S1,3.25,Science,Medan,16835705
+215,Scholarship 215,Provider 215,SMA,3.1,Science,Medan,11315706
+216,Scholarship 216,Provider 216,SMA,3.13,Engineering,Medan,16332556
+217,Scholarship 217,Provider 217,S2,3.66,Science,Bandung,11334733
+218,Scholarship 218,Provider 218,S1,2.77,Science,Jakarta,16289544
+219,Scholarship 219,Provider 219,S2,2.99,Economics,Surabaya,13159464
+220,Scholarship 220,Provider 220,S1,3.33,Medicine,Bandung,15854162
+221,Scholarship 221,Provider 221,S2,3.43,Engineering,Medan,9975761
+222,Scholarship 222,Provider 222,SMA,2.57,Economics,Medan,7618538
+223,Scholarship 223,Provider 223,SMA,3.77,Economics,Yogyakarta,14456940
+224,Scholarship 224,Provider 224,S1,2.93,Science,Bandung,8034338
+225,Scholarship 225,Provider 225,S1,2.77,Engineering,Jakarta,8188427
+226,Scholarship 226,Provider 226,S1,2.9,Medicine,Medan,5322391
+227,Scholarship 227,Provider 227,S2,3.78,Medicine,Surabaya,10714758
+228,Scholarship 228,Provider 228,S1,3.37,Economics,Yogyakarta,7783438
+229,Scholarship 229,Provider 229,SMA,2.82,Engineering,Jakarta,19921262
+230,Scholarship 230,Provider 230,S1,2.76,Economics,Jakarta,19433846
+231,Scholarship 231,Provider 231,SMA,2.6,Economics,Jakarta,15378930
+232,Scholarship 232,Provider 232,S2,2.97,Medicine,Yogyakarta,17427841
+233,Scholarship 233,Provider 233,SMA,3.57,Medicine,Surabaya,5486350
+234,Scholarship 234,Provider 234,SMA,2.86,Economics,Medan,12549285
+235,Scholarship 235,Provider 235,S2,2.98,Medicine,Yogyakarta,12026950
+236,Scholarship 236,Provider 236,SMA,3.49,Medicine,Yogyakarta,8295353
+237,Scholarship 237,Provider 237,S2,3.4,Science,Surabaya,15777775
+238,Scholarship 238,Provider 238,S2,3.04,Science,Jakarta,10770412
+239,Scholarship 239,Provider 239,S2,2.71,Computer Science,Medan,9377353
+240,Scholarship 240,Provider 240,SMA,3.66,Computer Science,Bandung,13290819
+241,Scholarship 241,Provider 241,S2,3.25,Economics,Jakarta,7811273
+242,Scholarship 242,Provider 242,S1,2.83,Economics,Jakarta,18696756
+243,Scholarship 243,Provider 243,SMA,2.81,Economics,Surabaya,11902818
+244,Scholarship 244,Provider 244,SMA,3.08,Economics,Bandung,16128286
+245,Scholarship 245,Provider 245,S1,3.02,Medicine,Medan,13051201
+246,Scholarship 246,Provider 246,S1,2.59,Computer Science,Medan,6447206
+247,Scholarship 247,Provider 247,S1,3.73,Economics,Medan,17183758
+248,Scholarship 248,Provider 248,S1,3.52,Science,Surabaya,7529232
+249,Scholarship 249,Provider 249,S2,3.15,Medicine,Bandung,10360478
+250,Scholarship 250,Provider 250,SMA,2.92,Computer Science,Bandung,9631986
+251,Scholarship 251,Provider 251,SMA,2.74,Medicine,Jakarta,5204941
+252,Scholarship 252,Provider 252,S1,2.72,Engineering,Yogyakarta,13689494
+253,Scholarship 253,Provider 253,S2,2.81,Economics,Bandung,14762862
+254,Scholarship 254,Provider 254,S2,2.79,Science,Medan,12764963
+255,Scholarship 255,Provider 255,S1,3.42,Computer Science,Medan,19558039
+256,Scholarship 256,Provider 256,S1,3.5,Medicine,Yogyakarta,13790821
+257,Scholarship 257,Provider 257,S1,2.97,Computer Science,Yogyakarta,11860637
+258,Scholarship 258,Provider 258,S1,2.71,Engineering,Jakarta,8813101
+259,Scholarship 259,Provider 259,S2,3.34,Science,Jakarta,8406570
+260,Scholarship 260,Provider 260,SMA,2.93,Medicine,Surabaya,12195994
+261,Scholarship 261,Provider 261,S2,3.71,Engineering,Medan,8465298
+262,Scholarship 262,Provider 262,SMA,3.53,Science,Surabaya,7854870
+263,Scholarship 263,Provider 263,SMA,3.78,Economics,Medan,12279110
+264,Scholarship 264,Provider 264,SMA,3.65,Computer Science,Surabaya,11907466
+265,Scholarship 265,Provider 265,S2,2.51,Engineering,Jakarta,8268011
+266,Scholarship 266,Provider 266,S1,2.58,Computer Science,Bandung,18289985
+267,Scholarship 267,Provider 267,S1,3.67,Computer Science,Yogyakarta,7669018
+268,Scholarship 268,Provider 268,S2,2.65,Engineering,Medan,17062896
+269,Scholarship 269,Provider 269,S2,3.27,Engineering,Jakarta,9496207
+270,Scholarship 270,Provider 270,SMA,2.96,Medicine,Jakarta,12517585
+271,Scholarship 271,Provider 271,S2,2.54,Science,Jakarta,14462014
+272,Scholarship 272,Provider 272,SMA,2.61,Economics,Surabaya,5390291
+273,Scholarship 273,Provider 273,S2,3.5,Science,Yogyakarta,13033691
+274,Scholarship 274,Provider 274,S1,3.6,Economics,Jakarta,9188147
+275,Scholarship 275,Provider 275,S1,2.97,Economics,Surabaya,8958500
+276,Scholarship 276,Provider 276,S1,2.82,Medicine,Jakarta,13530185
+277,Scholarship 277,Provider 277,S2,3.14,Science,Surabaya,18021929
+278,Scholarship 278,Provider 278,SMA,2.7,Engineering,Bandung,18901837
+279,Scholarship 279,Provider 279,S1,3.3,Computer Science,Surabaya,10132725
+280,Scholarship 280,Provider 280,SMA,3.46,Medicine,Medan,14100614
+281,Scholarship 281,Provider 281,S1,3.42,Medicine,Yogyakarta,7962392
+282,Scholarship 282,Provider 282,SMA,3.71,Medicine,Surabaya,8952761
+283,Scholarship 283,Provider 283,S2,3.28,Engineering,Yogyakarta,18960491
+284,Scholarship 284,Provider 284,S2,3.27,Computer Science,Surabaya,15514021
+285,Scholarship 285,Provider 285,SMA,3.46,Economics,Yogyakarta,18563269
+286,Scholarship 286,Provider 286,S2,3.44,Engineering,Bandung,7478248
+287,Scholarship 287,Provider 287,SMA,2.86,Science,Medan,13127732
+288,Scholarship 288,Provider 288,S2,3.54,Science,Medan,17735247
+289,Scholarship 289,Provider 289,S2,3.68,Engineering,Medan,13053774
+290,Scholarship 290,Provider 290,SMA,3.51,Medicine,Surabaya,13268245
+291,Scholarship 291,Provider 291,S1,3.6,Engineering,Medan,17476416
+292,Scholarship 292,Provider 292,S1,3.6,Computer Science,Jakarta,7118947
+293,Scholarship 293,Provider 293,S1,2.82,Economics,Jakarta,11706785
+294,Scholarship 294,Provider 294,SMA,3.58,Economics,Medan,17209550
+295,Scholarship 295,Provider 295,S1,3.43,Economics,Medan,17502790
+296,Scholarship 296,Provider 296,S2,2.92,Economics,Surabaya,11729206
+297,Scholarship 297,Provider 297,S1,3.38,Medicine,Medan,15376195
+298,Scholarship 298,Provider 298,S2,3.38,Science,Yogyakarta,9261188
+299,Scholarship 299,Provider 299,S1,3.54,Science,Bandung,11980709
+300,Scholarship 300,Provider 300,S1,2.5,Engineering,Surabaya,9177384
